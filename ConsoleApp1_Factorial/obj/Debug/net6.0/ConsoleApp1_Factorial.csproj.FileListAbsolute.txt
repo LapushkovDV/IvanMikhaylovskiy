@@ -1,0 +1,15 @@
+C:\Temp\VS\ConsoleApp1_Factorial\bin\Debug\net6.0\ConsoleApp1_Factorial.exe
+C:\Temp\VS\ConsoleApp1_Factorial\bin\Debug\net6.0\ConsoleApp1_Factorial.deps.json
+C:\Temp\VS\ConsoleApp1_Factorial\bin\Debug\net6.0\ConsoleApp1_Factorial.runtimeconfig.json
+C:\Temp\VS\ConsoleApp1_Factorial\bin\Debug\net6.0\ConsoleApp1_Factorial.dll
+C:\Temp\VS\ConsoleApp1_Factorial\bin\Debug\net6.0\ConsoleApp1_Factorial.pdb
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\ConsoleApp1_Factorial.csproj.AssemblyReference.cache
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\ConsoleApp1_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\ConsoleApp1_Factorial.AssemblyInfoInputs.cache
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\ConsoleApp1_Factorial.AssemblyInfo.cs
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\ConsoleApp1_Factorial.csproj.CoreCompileInputs.cache
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\ConsoleApp1_Factorial.dll
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\refint\ConsoleApp1_Factorial.dll
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\ConsoleApp1_Factorial.pdb
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\ConsoleApp1_Factorial.genruntimeconfig.cache
+C:\Temp\VS\ConsoleApp1_Factorial\obj\Debug\net6.0\ref\ConsoleApp1_Factorial.dll

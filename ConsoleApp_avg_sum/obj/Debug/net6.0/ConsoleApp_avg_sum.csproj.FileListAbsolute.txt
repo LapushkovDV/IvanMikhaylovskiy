@@ -1,0 +1,15 @@
+C:\Temp\VS\ConsoleApp_avg_sum\bin\Debug\net6.0\ConsoleApp_avg_sum.exe
+C:\Temp\VS\ConsoleApp_avg_sum\bin\Debug\net6.0\ConsoleApp_avg_sum.deps.json
+C:\Temp\VS\ConsoleApp_avg_sum\bin\Debug\net6.0\ConsoleApp_avg_sum.runtimeconfig.json
+C:\Temp\VS\ConsoleApp_avg_sum\bin\Debug\net6.0\ConsoleApp_avg_sum.dll
+C:\Temp\VS\ConsoleApp_avg_sum\bin\Debug\net6.0\ConsoleApp_avg_sum.pdb
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\ConsoleApp_avg_sum.csproj.AssemblyReference.cache
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\ConsoleApp_avg_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\ConsoleApp_avg_sum.AssemblyInfoInputs.cache
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\ConsoleApp_avg_sum.AssemblyInfo.cs
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\ConsoleApp_avg_sum.csproj.CoreCompileInputs.cache
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\ConsoleApp_avg_sum.dll
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\refint\ConsoleApp_avg_sum.dll
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\ConsoleApp_avg_sum.pdb
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\ConsoleApp_avg_sum.genruntimeconfig.cache
+C:\Temp\VS\ConsoleApp_avg_sum\obj\Debug\net6.0\ref\ConsoleApp_avg_sum.dll

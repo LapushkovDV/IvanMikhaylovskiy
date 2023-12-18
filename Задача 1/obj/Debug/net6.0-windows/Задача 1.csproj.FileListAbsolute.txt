@@ -1,0 +1,17 @@
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача 1.csproj.AssemblyReference.cache
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача_1.Form1.resources
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача 1.csproj.GenerateResource.cache
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача 1.AssemblyInfoInputs.cache
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача 1.AssemblyInfo.cs
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача 1.csproj.CoreCompileInputs.cache
+C:\Temp\VS\Задача 1\bin\Debug\net6.0-windows\Задача 1.exe
+C:\Temp\VS\Задача 1\bin\Debug\net6.0-windows\Задача 1.deps.json
+C:\Temp\VS\Задача 1\bin\Debug\net6.0-windows\Задача 1.runtimeconfig.json
+C:\Temp\VS\Задача 1\bin\Debug\net6.0-windows\Задача 1.dll
+C:\Temp\VS\Задача 1\bin\Debug\net6.0-windows\Задача 1.pdb
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача 1.dll
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\refint\Задача 1.dll
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача 1.pdb
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\Задача 1.genruntimeconfig.cache
+C:\Temp\VS\Задача 1\obj\Debug\net6.0-windows\ref\Задача 1.dll

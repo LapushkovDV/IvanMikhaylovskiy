@@ -1,0 +1,15 @@
+C:\Temp\VS\ConsoleApp1_Fibonachi\bin\Debug\net6.0\ConsoleApp1_Fibonachi.exe
+C:\Temp\VS\ConsoleApp1_Fibonachi\bin\Debug\net6.0\ConsoleApp1_Fibonachi.deps.json
+C:\Temp\VS\ConsoleApp1_Fibonachi\bin\Debug\net6.0\ConsoleApp1_Fibonachi.runtimeconfig.json
+C:\Temp\VS\ConsoleApp1_Fibonachi\bin\Debug\net6.0\ConsoleApp1_Fibonachi.dll
+C:\Temp\VS\ConsoleApp1_Fibonachi\bin\Debug\net6.0\ConsoleApp1_Fibonachi.pdb
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\ConsoleApp1_Fibonachi.csproj.AssemblyReference.cache
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\ConsoleApp1_Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\ConsoleApp1_Fibonachi.AssemblyInfoInputs.cache
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\ConsoleApp1_Fibonachi.AssemblyInfo.cs
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\ConsoleApp1_Fibonachi.csproj.CoreCompileInputs.cache
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\ConsoleApp1_Fibonachi.dll
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\refint\ConsoleApp1_Fibonachi.dll
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\ConsoleApp1_Fibonachi.pdb
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\ConsoleApp1_Fibonachi.genruntimeconfig.cache
+C:\Temp\VS\ConsoleApp1_Fibonachi\obj\Debug\net6.0\ref\ConsoleApp1_Fibonachi.dll
